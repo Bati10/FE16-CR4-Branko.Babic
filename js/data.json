@@ -1,0 +1,64 @@
+let tasks = `[{
+    "taskName": "Dinner",
+    "image": "img/Dinner.jpg",
+    "description": "Having dinner with my wife",
+    "importance": 0,
+    "deadline": "11.06.2022"
+    },
+    {
+        "taskName": "Workout",
+        "image": "img/workout.jpg",
+        "description": "Lifting weights",
+        "importance": 0,
+        "deadline": "ongoing"
+    },
+    {
+        "taskName": "Grocery Shopping",
+        "image": "img/g.shopping.jpg",
+        "description": "Shopping at Billa and Lidl",
+        "importance": 0,
+        "deadline": "07.06.2022"
+    },
+    {
+        "taskName": "Coding",
+        "image": "img/coding.jpg.webp",
+        "description": "Everyday coding at CodeFactory",
+        "importance": 0,
+        "deadline": "ongoing"
+    },
+    {
+        "taskName": "Paying bills",
+        "image": "img/Paying.png",
+        "description": "Stressful thing to do",
+        "importance": 0,
+        "deadline": "08.06.2022"
+    },
+    {
+        "taskName": "Netflix",
+        "image": "img/Tv.jpg",
+        "description": "Watching Tv and releasing",
+        "importance": 0,
+        "deadline": "07.06.2022"
+    },
+    {
+        "taskName": "Studying",
+        "image": "img/studying.webp",
+        "description": "Learning about diferent Web-skills",
+        "importance": 0,
+        "deadline": "ongoing"
+    },
+    {
+        "taskName": "Meditating",
+        "image": "img/meditating.jpg",
+        "description": "Use the time for myself",
+        "importance": 0,
+        "deadline": "15.06.2022"
+    },
+    {
+        "taskName": "Playing with my kids",
+        "image": "img/playing.jpg",
+        "description": "Bike ride, walks in the park ect.",
+        "importance": 0,
+        "deadline": "06.06.2022"
+    }
+]`
